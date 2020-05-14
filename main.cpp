@@ -20,7 +20,6 @@ SOFTWARE.
 
 #include "serial.h"
 #include "simpleserial.cpp"
-#include <stdio.h>
 
 using namespace std;
 
