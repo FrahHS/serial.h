@@ -1,5 +1,5 @@
 # serial.h
-Windows c++ library to trade string in serial connection with a microcontroller, like Arduino, and your c++ program
+Windows c++ library to trade string in serial connection with Arduino (or similar), and your c++ program
 
 The main.cpp cointain an easy example (commented) to explain how these libraries functions works.
 
