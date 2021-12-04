@@ -1,4 +1,4 @@
-# <img src="https://i.imgur.com/A8fVeyP.png" height="60"> serial.h
+# <img src="https://i.ibb.co/GCf3PBf/pngwing-com-1.png" height="60"> serial.h
 Windows c++ library to trade string in serial connection with Arduino (or similar), and your c++ program
 
 ## feature
